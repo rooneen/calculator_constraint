@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/android_progect/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/android_progect/app/src/main/res/layout/calculator_constraint.xml" value="0.36666666666666664" />
+        <entry key="..\:/android_progect/app/src/main/res/layout/calculator_grid.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
