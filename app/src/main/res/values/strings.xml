@@ -16,5 +16,5 @@
     <string name="key_divide">/</string>
     <string name="key_multiply">*</string>
     <string name="key_equals">=</string>
-    <string name="key_enter">_</string>
+    <string name="result">_</string>
 </resources>

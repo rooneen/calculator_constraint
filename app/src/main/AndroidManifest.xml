@@ -10,14 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Calculator_constraint">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.ActivityCalculator"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-    </application>
 
-</manifest>
+        </activity>
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="false" >
+        </activity>
+
+</application>
+
+    </manifest>

@@ -1,8 +1,10 @@
-package com.example.calculator_constraint;
+package com.example.calculator_constraint.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.calculator_constraint.R;
 
 public class MainActivity extends AppCompatActivity {
 
